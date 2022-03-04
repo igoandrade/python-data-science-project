@@ -8,13 +8,10 @@ plotly
 yfinance
 statsmodels
 scikit-learn
-graphviz
 ipykernel
 jupyterlab
 nltk
 textblob
 wordcloud
-urllib3
 beautifulsoup4
 requests
-pygooglenews
